@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Location</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="get_position">Get Position</string>
+    <string name="start_loop">Start loop</string>
+    <string name="stop_loop">Stop loop</string>
 </resources>
